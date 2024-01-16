@@ -15,9 +15,5 @@ spring:
 management:
   endpoints:
     web:
-      base-path: /actuator
       exposure:
         include: "*"
-
-example:
-  "Hello, from externalized config!"
