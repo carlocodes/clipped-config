@@ -20,4 +20,4 @@ management:
         include: "*"
 
 example:
-  "Hello, from putangina mo!"
+  "Hello, from putangina mo test1!"
