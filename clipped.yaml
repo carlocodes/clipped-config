@@ -20,4 +20,4 @@ management:
         include: "*"
 
 example:
-  "Hello, from externalized config!"
+  "Hello, from putangina mo!"
