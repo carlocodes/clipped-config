@@ -4,6 +4,8 @@ server:
     context-path: /clipped
 
 spring:
+  application:
+    name: clipped
   datasource:
     url: jdbc:mysql://localhost:3306/clipped
     username: root
